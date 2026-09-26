@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prem Jha | Author of Pages I Never Sent</title>
+<meta name="description" content="Prem Jha is an Indian author and the author of Pages I Never Sent, his debut poetry collection about love, memories and the emotions that often remain unspoken. Releasing 21 November 2026.">
+<link rel="canonical" href="https://premjhaa.github.io/">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Prem Jha",
+  "alternateName": "premjha097",
+  "jobTitle": "Author",
+  "description": "Prem Jha is an Indian author and emerging writer based in Chandigarh, India. He is the author of Pages I Never Sent, his debut poetry collection.",
+  "birthDate": "2007-06-18",
+  "birthPlace": { "@type": "Place", "name": "Panchkula, Haryana, India" },
+  "nationality": "Indian",
+  "knowsAbout": ["poetry", "writing", "human psychology", "philosophy"],
+  "url": "https://premjhaa.github.io/",
+  "image": "https://premjhaa.github.io/author.jpg",
+  "sameAs": [
+    "https://www.instagram.com/premjha097/",
+    "https://www.instagram.com/theunsentboy/",
+    "https://medium.com/@premjha0607"
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Pages I Never Sent",
+  "alternateName": "Poems of the words I never had the courage to send",
+  "author": { "@type": "Person", "name": "Prem Jha", "url": "https://premjhaa.github.io/" },
+  "bookFormat": "https://schema.org/Paperback",
+  "inLanguage": "en",
+  "datePublished": "2026-11-21",
+  "description": "Pages I Never Sent is the debut poetry collection by Indian author Prem Jha - poems of love, memories, solitude, relationships and the emotions that often remain unspoken."
+}
+</script>
+<style>
+  :root { --ink:#1d2b33; --teal:#16323c; --pink:#f3d9d3; --muted:#5b6b72; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: Georgia, 'Times New Roman', serif; color:var(--ink); background:#faf7f4; line-height:1.7; }
+  .wrap { max-width:720px; margin:0 auto; padding:48px 24px 80px; }
+  header { text-align:center; padding:32px 0 8px; }
+  h1 { font-size:2.4rem; letter-spacing:.5px; }
+  .role { color:var(--muted); font-style:italic; margin-top:6px; }
+  section { margin-top:48px; }
+  h2 { font-size:1.3rem; text-transform:uppercase; letter-spacing:2px; color:var(--teal); border-bottom:1px solid #e3d9d2; padding-bottom:8px; margin-bottom:20px; }
+  .about { display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; }
+  .about .author { width:220px; max-width:100%; border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,.12); }
+  .about > div { flex:1; min-width:260px; }
+  .book { display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; }
+  .book img { width:240px; max-width:100%; border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,.15); }
+  .tagline { font-style:italic; color:var(--muted); margin:12px 0; }
+  .date { display:inline-block; background:var(--teal); color:#fff; padding:6px 16px; border-radius:20px; font-size:.9rem; margin-top:14px; font-family:Helvetica, Arial, sans-serif; }
+  footer { margin-top:64px; text-align:center; font-family:Helvetica, Arial, sans-serif; font-size:.95rem; }
+  footer a { color:var(--teal); text-decoration:none; margin:0 10px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Prem Jha</h1>
+    <p class="role">Author of Pages I Never Sent &middot; premjha097</p>
+  </header>
+
+  <section>
+    <h2>About</h2>
+    <div class="about">
+      <img class="author" src="author.jpg" alt="Prem Jha, author of Pages I Never Sent (premjha097), Indian poet based in Chandigarh.">
+      <div>
+    <p>Prem Jha is an Indian author and emerging writer based in Chandigarh, India. He is the author of <em>Pages I Never Sent</em>, his debut poetry collection exploring love, memories, solitude, relationships, and the emotions that often remain unspoken.</p>
+    <p>His writing is shaped by an interest in human psychology, philosophy, personal experiences, and the gap between what people express publicly and what they carry privately. Alongside writing, Prem is pursuing a bachelor's degree in Tourism and Travel Management and is interested in travel, culture, digital media, technology, and creative entrepreneurship.</p>
+    <p>As a young independent author, he is building a multidisciplinary creative identity that brings together literature, digital storytelling, communication, and contemporary forms of publishing. Through his writing and future projects, Prem aims to explore human experiences from different perspectives while developing a distinctive voice of his own.</p>
+    <p>Prem was born on 18 June 2007 in Panchkula, Haryana.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>The Book</h2>
+    <div class="book">
+      <img src="cover.jpg" alt="Pages I Never Sent cover - debut poetry collection by Prem Jha (premjha097) - cherry blossoms, torn paper and waves, tagline Poems of the words I never had the courage to send.">
+      <div>
+        <h3>Pages I Never Sent</h3>
+        <p class="tagline">Poems of the words I never had the courage to send.</p>
+        <p><em>Pages I Never Sent</em> is a collection of poems born from the spaces between words - the letters left unsaid, the feelings hidden too well, and the goodbyes that never found their voice. Each page is a quiet confession, a memory, a wound, and a prayer.</p>
+        <p>This book is for anyone who has loved deeply, lost silently, overthought endlessly, and written in the dark just to stay sane. These poems are not answers. They are pieces of the heart he had to let go of.</p>
+        <p>If you've ever written something you never sent, this book is for you.</p>
+        <span class="date">Releasing 21 November 2026</span>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Follow Prem Jha (premjha097), author of Pages I Never Sent:</p>
+    <p><a href="https://www.instagram.com/theunsentboy/">Instagram &middot; @theunsentboy</a> <a href="https://www.instagram.com/premjha097/">Instagram &middot; @premjha097</a> <a href="https://medium.com/@premjha0607">Medium</a></p>
+  </footer>
+</div>
+</body>
+</html>
